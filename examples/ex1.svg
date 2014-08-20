@@ -1,0 +1,37 @@
+<?xml version="1.0"?><svg  xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:cc="http://web.resource.org/cc/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  xmlns:svg="http://www.w3.org/2000/svg"  xmlns="http://www.w3.org/2000/svg"  height="800.0"  width="1500.0">
+	<g  stroke="black"  stroke-width="1"  fill-opacity="1">
+		<line  stroke="#008800"  stroke-width="2.5"  x1="353.052843721"  y1="488.294759286"  x2="470.710678119"  y2="470.710678119"/>
+		<line  stroke="#008800"  stroke-width="3.25"  x1="301.837281655"  y1="380.919100462"  x2="470.710678119"  y2="470.710678119"/>
+		<line  stroke="#008800"  stroke-width="4.0"  x1="301.837281655"  y1="380.919100462"  x2="353.052843721"  y2="488.294759286"/>
+		<line  stroke="#880000"  stroke-width="0.0"  x1="389.547153673"  y1="300.547810463"  x2="470.710678119"  y2="470.710678119"/>
+		<line  stroke="#008800"  stroke-width="0.6"  x1="389.547153673"  y1="300.547810463"  x2="353.052843721"  y2="488.294759286"/>
+		<line  stroke="#008800"  stroke-width="0.5"  x1="389.547153673"  y1="300.547810463"  x2="301.837281655"  y2="380.919100462"/>
+		<line  stroke="#008800"  stroke-width="2.0"  x1="492.050485345"  y1="360.926887151"  x2="470.710678119"  y2="470.710678119"/>
+		<line  stroke="#008800"  stroke-width="0.5"  x1="492.050485345"  y1="360.926887151"  x2="353.052843721"  y2="488.294759286"/>
+		<line  stroke="#008800"  stroke-width="2.0"  x1="492.050485345"  y1="360.926887151"  x2="301.837281655"  y2="380.919100462"/>
+		<line  stroke="#008800"  stroke-width="1.0"  x1="492.050485345"  y1="360.926887151"  x2="389.547153673"  y2="300.547810463"/>
+		<circle  stroke="#909090"  fill="#909090"  cx="470.710678119"  cy="470.710678119"  r="3.67879441171"/>
+		<circle  stroke="#909090"  fill="#909090"  cx="353.052843721"  cy="488.294759286"  r="2.23130160148"/>
+		<circle  stroke="#909090"  fill="#909090"  cx="301.837281655"  cy="380.919100462"  r="10.0"/>
+		<circle  stroke="#909090"  fill="#909090"  cx="389.547153673"  cy="300.547810463"  r="27.1828182846"/>
+		<circle  stroke="#909090"  fill="#909090"  cx="492.050485345"  cy="360.926887151"  r="73.8905609893"/>
+		<text  x="400.0"  y="100.0"  font-size="24"  font-weight="normal"  font-family="Arial"  text-anchor="middle"  dominant-baseline="central">
+			First One
+		</text>
+		<text  x="470.710678119"  y="475.710678119"  font-size="24"  font-weight="normal"  font-family="Arial"  text-anchor="middle"  dominant-baseline="central">
+			REG1
+		</text>
+		<text  x="353.052843721"  y="493.294759286"  font-size="24"  font-weight="normal"  font-family="Arial"  text-anchor="middle"  dominant-baseline="central">
+			REG2
+		</text>
+		<text  x="301.837281655"  y="385.919100462"  font-size="24"  font-weight="normal"  font-family="Arial"  text-anchor="middle"  dominant-baseline="central">
+			REG3
+		</text>
+		<text  x="389.547153673"  y="305.547810463"  font-size="24"  font-weight="normal"  font-family="Arial"  text-anchor="middle"  dominant-baseline="central">
+			REG4
+		</text>
+		<text  x="492.050485345"  y="365.926887151"  font-size="24"  font-weight="normal"  font-family="Arial"  text-anchor="middle"  dominant-baseline="central">
+			REG5
+		</text>
+	</g>
+</svg>

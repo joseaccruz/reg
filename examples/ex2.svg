@@ -1,0 +1,22 @@
+<?xml version="1.0"?><svg  xmlns:dc="http://purl.org/dc/elements/1.1/"  xmlns:cc="http://web.resource.org/cc/"  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"  xmlns:svg="http://www.w3.org/2000/svg"  xmlns="http://www.w3.org/2000/svg"  height="800.0"  width="1500.0">
+	<g  stroke="black"  stroke-width="1"  fill-opacity="1">
+		<line  stroke="#008800"  stroke-width="3.25"  x1="302.970427372"  y1="424.19218956"  x2="470.710678119"  y2="470.710678119"/>
+		<line  stroke="#008800"  stroke-width="2.0"  x1="429.237170472"  y1="304.369524404"  x2="470.710678119"  y2="470.710678119"/>
+		<line  stroke="#008800"  stroke-width="2.0"  x1="429.237170472"  y1="304.369524404"  x2="302.970427372"  y2="424.19218956"/>
+		<circle  stroke="#909090"  fill="#909090"  cx="470.710678119"  cy="470.710678119"  r="3.67879441171"/>
+		<circle  stroke="#909090"  fill="#909090"  cx="302.970427372"  cy="424.19218956"  r="10.0"/>
+		<circle  stroke="#909090"  fill="#909090"  cx="429.237170472"  cy="304.369524404"  r="73.8905609893"/>
+		<text  x="400.0"  y="100.0"  font-size="24"  font-weight="normal"  font-family="Arial"  text-anchor="middle"  dominant-baseline="central">
+			Second One
+		</text>
+		<text  x="470.710678119"  y="475.710678119"  font-size="24"  font-weight="normal"  font-family="Arial"  text-anchor="middle"  dominant-baseline="central">
+			REG1
+		</text>
+		<text  x="302.970427372"  y="429.19218956"  font-size="24"  font-weight="normal"  font-family="Arial"  text-anchor="middle"  dominant-baseline="central">
+			REG3
+		</text>
+		<text  x="429.237170472"  y="309.369524404"  font-size="24"  font-weight="normal"  font-family="Arial"  text-anchor="middle"  dominant-baseline="central">
+			REG5
+		</text>
+	</g>
+</svg>
